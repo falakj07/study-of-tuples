@@ -3,7 +3,8 @@
 ## Title :
 Tuples in Python: Creation, Access, and Operations
 
-## Aim :To study the concept of tuples in Python and perform various operations such as creation, indexing, slicing, and applying built-in functions.
+## Aim :
+To study the concept of tuples in Python and perform various operations such as creation, indexing, slicing, and applying built-in functions.
 
 ## Objectives: 
 To understand what tuples are in Python 
